@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-End`** **`ASP.NET`**
 
-Me chamo João Vitor, tenho 20 anos e sou do interior do estado de São Paulo, estou atualmente cursando Engenharia de Software na instituição de ensino Estácio. Sou fascinado por tecnologias e resolver problemas com **códigos**.
+Me chamo João Vitor, tenho 21 anos e sou do interior do estado de São Paulo, estou atualmente cursando Engenharia de Software na instituição de ensino Estácio. Sou fascinado por tecnologias e resolver problemas com **códigos**.
 
 
 <p align="left">
